@@ -43,9 +43,9 @@ const Roadmap = () => {
                     <ul className='font-Roboto'>
                         <li>13. Release sneak-peeks of Mutant Apes Sui Club.</li>
                         <li>14. Start Marketing of Mutant Ape Sui Club.</li>
-                        <li>15. The holders of Bored Ape Sui Club are going to be automatically whitelisted for Mutant Ape Sui Club. Every Bored Ape will be a spot in the Mutant Ape List.</li>
+                        <li>15. The holders of Bored Ape Sui Club are going to be automatically <br/>whitelisted for Mutant Ape Sui Club. Every Bored Ape will be a spot in the Mutant Ape List.</li>
                         <li>16. Launch our colletion Mutant Ape Sui Club on Sui Mainnet.</li>
-                        <li>17. Proceeds from Mutant Ape Sui Club NFT sales to fund DAO Development. All the funds and royalties are going to the DAO wallet.</li>
+                        <li>17. Proceeds from Mutant Ape Sui Club NFT sales to fund DAO Development. <br/>All the funds and royalties are going to the DAO wallet.</li>
                     </ul>
                 </div>
                 <div data-aos="fade-up" data-aos-duration="2500" className='text-white border-l-4 border-white rounded-md shadow-xl p-5'>
