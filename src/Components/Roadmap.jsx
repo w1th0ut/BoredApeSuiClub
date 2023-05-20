@@ -55,7 +55,7 @@ const Roadmap = () => {
                         <li>19. Start Marketing of Kennel Ape Sui Club.</li>
                         <li>15. The holders of Bored Ape Sui Club and Mutant Ape Sui Club <br/>are going to be automatically whitelisted for Kennel Ape Sui Club. <br/>You will need to hold a Bored Ape and a Mutant Ape to be in the Kennel<br/>Ape List.</li>
                         <li>16. Launch our colletion Kennel Ape Sui Club on Sui Mainnet.</li>
-                        <li>17. Proceeds from Kennel Ape Sui Club NFT sales to funds DAO Development. <br/>All the funds and royalties are going to the DAO wallet.</li>
+                        <li>17. Proceeds from Kennel Ape Sui Club sales to funds DAO Development. <br/>All the funds and royalties are going to the DAO wallet.</li>
                     </ul>
                 </div>
             </div>
