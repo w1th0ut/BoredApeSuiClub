@@ -30,7 +30,7 @@ const Roadmap = () => {
                         <li className='font-Roboto'>7. Launch Discord and grow our community server to become <br/>a leading hub for the community and discussions.</li>
                         <li className='font-Roboto'>8. Launch our colletion Bored Ape Sui Club on Sui Mainnet.</li>
                         <li className='font-Roboto'>9. Holders Verification on Discord, NFT owners will be able <br/>to verify their NFTs to become voting members of the DAO.</li>
-                        <li className='font-Roboto'>10. Proceeds from Bored Ape Sui Club NFT sales to fund DAO Development.</li>
+                        <li className='font-Roboto'>10. Proceeds from Bored Ape Sui Club sales to funds DAO Development.</li>
                         <li className='font-Roboto'>11. Buying NFTs for intel.</li>
                         <li className='font-Roboto'>12. Alpha calls, Whitelist contests for the top tier projects, <br/>NFT Giveaways, Airdrops News, Crypto and NFT Analysis.</li>
                     </ul>
