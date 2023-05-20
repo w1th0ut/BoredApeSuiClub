@@ -43,7 +43,7 @@ const Roadmap = () => {
                     <ul className='font-Roboto'>
                         <li>13. Release sneak-peeks of Mutant Apes Sui Club.</li>
                         <li>14. Start Marketing of Mutant Ape Sui Club.</li>
-                        <li>15. The holders of Bored Ape Sui Club are going to be automatically <br/>whitelisted for Mutant Ape Sui Club. Every Bored Ape will be a spot in the Mutant Ape List.</li>
+                        <li>15. The holders of Bored Ape Sui Club are going to be automatically <br/>whitelisted for Mutant Ape Sui Club. Every Bored <br/>Ape will be a spot in the Mutant Ape List.</li>
                         <li>16. Launch our colletion Mutant Ape Sui Club on Sui Mainnet.</li>
                         <li>17. Proceeds from Mutant Ape Sui Club NFT sales to fund DAO Development. <br/>All the funds and royalties are going to the DAO wallet.</li>
                     </ul>
@@ -53,9 +53,9 @@ const Roadmap = () => {
                     <ul className='font-Roboto'>
                         <li>18. Release sneak-peeks of Kennel Apes Sui Club.</li>
                         <li>19. Start Marketing of Kennel Ape Sui Club.</li>
-                        <li>15. The holders of Bored Ape Sui Club and Mutant Ape Sui Club <br/>are going to be automatically whitelisted for Kennel Ape Sui Club. <br/>You will need to hold a Bored Ape and a Mutant Ape to be in the Kennel Ape List.</li>
+                        <li>15. The holders of Bored Ape Sui Club and Mutant Ape Sui Club <br/>are going to be automatically whitelisted for Kennel Ape Sui Club. <br/>You will need to hold a Bored Ape and a Mutant Ape <br/>to be in the Kennel Ape List.</li>
                         <li>16. Launch our colletion Kennel Ape Sui Club on Sui Mainnet.</li>
-                        <li>17. Proceeds from Kennel Ape Sui Club NFT sales <br/>to fund DAO Development. All the funds and royalties are going to the DAO wallet.</li>
+                        <li>17. Proceeds from Kennel Ape Sui Club NFT sales to fund DAO Development. <br/>All the funds and royalties are going to the DAO wallet.</li>
                     </ul>
                 </div>
             </div>
